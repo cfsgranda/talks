@@ -10,6 +10,8 @@ Slides, notes and scripts used in my talks. Also videos, if available.
   - [Video](https://www.youtube.com/watch?v=xMNAhPkyRmc)
 - 2020-03-07 - **Resistencia Digital: Manual de seguridad operacional e instrumental para smartphones**, RootedCon XI
   - [Slides](https://github.com/cfsgranda/talks/blob/master/2020-03-07-presentacion-resistencia-digital-rootedcon/rootedcon2020_presentacion_rd.pdf)
+  - [Video (Spanish)](https://www.youtube.com/watch?v=oxeE5FXkXKg)
+  - [Video (English)](https://www.youtube.com/watch?v=oN5Kw6v6m_M)
 - 2020-02-21 - **Internet: Una breve introducción**, Privacy Coffe 6 (Críptica)
   - [Slides](https://github.com/cfsgranda/talks/blob/master/2020-02-21-internet-breve-introduccion-privacycoffee6/pc_6_internet_intro_def.pdf)
 - 2019-11-14 - **Resistencia Digital: Seguridad y privacidad en la era Smartphone**, NoConName 2019
